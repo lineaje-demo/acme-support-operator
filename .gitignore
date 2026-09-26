@@ -1,0 +1,5 @@
+Acme_Loan_Processor-main
+.env
+.venv/
+__pycache__/
+logs/
